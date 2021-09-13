@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Everton-Cabral
 - 👀  Estou interessado em  ingressar na área de tecnologia!.
-- 🌱 Atualmente estou aprendendo a progamar em  JavaScript com Nodejs e Quasar Framework..
+- 🌱 Atualmente estou aprendendo a progamar em  JavaScript com Nodejs e Vuejs...
 - 💞️  Procuro colaborar em qualquer projeto de tecnologia que eu possa  desenvolver meu conhecimento.
 - 📫  E-mail: Cabralclarinetista@gmail.com  Telefone: 81987595190
 -  Recife- PE
