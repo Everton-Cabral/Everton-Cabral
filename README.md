@@ -15,7 +15,7 @@
 - 👀  Estou interessado em  ingressar na área de tecnologia!.
 - 🌱 Atualmente estou aprendendo a progamar em  JavaScript com Vuejs...
 - 💞️  Procuro colaborar em qualquer projeto de tecnologia que eu possa  desenvolver meu conhecimento.
-- 📫  E-mail: Cabralclarinetista@gmail.com  Telefone: 81987595190
+- 📫  E-mail: Cabralclarinetista@gmail.com  Telefone: (81)9-9287-2965
 -  Recife- PE
 <!---
 Everton-Cabral/Everton-Cabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
